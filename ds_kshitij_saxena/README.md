@@ -22,11 +22,11 @@ ds_kshitij_saxena/
 └── README.md
 
 ## Google Colab Notebook
-🔗 Paste your Colab link here  
-(Access: Anyone with the link can view)
+🔗 https://colab.research.google.com/drive/1EbqffzjYeOKlPvnaWQB5WiFQIxmLKMwg?usp=sharing
 
 ## Key Insights
 - Trading volume increases during Greed periods.
 - Traders take higher risk during Greed.
 - Win rates are higher during Fear, indicating cautious trading.
 - Market sentiment strongly influences trader behavior.
+
